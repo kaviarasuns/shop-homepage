@@ -1,0 +1,32 @@
+.productContainer{
+  padding: 20px;
+  margin: 30px;
+  row-gap: 10px;
+  width: 250px;
+  border: 1px solid black;
+}
+
+.productDetails{
+  text-align: center;
+}
+
+.productPicture{
+  height: 250px;
+  width: 250px;
+  object-fit: contain;
+}
+
+.addToCart{
+  text-align: center;
+}
+
+.button{
+  outline-color: black;
+  color: black;
+
+}
+
+.productName{
+  font-size: 20px;
+  font-weight: bold;
+}
